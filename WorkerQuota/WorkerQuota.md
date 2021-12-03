@@ -18,7 +18,7 @@ WorkerQuota
 
 2. 執行 WorkerQuota.exe，然後按照下圖的指示操作：
 
-![](WorkerQuota.png)
+![](WorkerQuota.jpg)
 
 說明：
 
