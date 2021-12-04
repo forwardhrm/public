@@ -6,7 +6,7 @@ WorkerQuota
 
 # 安裝
 
-將 WorkerQuota.zip 解壓縮至一個單獨目錄，然後執行其中的 WorkerQuota.exe 即可。
+將 [WorkerQuota.zip](WorkerQuota.zip) 解壓縮至一個單獨目錄，然後執行其中的 WorkerQuota.exe 即可。
 
 如果 Windows 環境上面缺少 .NET 函式庫，應該會出現提示訊息。只要按照提示訊息來下載和安裝 .NET 6.0 即可。
 
